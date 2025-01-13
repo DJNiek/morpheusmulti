@@ -1,0 +1,39 @@
+{
+  "cSpell.words": [
+    "ACETONITRILE",
+    "alpb",
+    "chrg",
+    "Confs",
+    "deprotonated",
+    "ETDG",
+    "ETHYLACETATE",
+    "FURANE",
+    "gfnff",
+    "HEXADECANE",
+    "KCALMOL",
+    "kekule",
+    "KJMOL",
+    "leci",
+    "MMFF",
+<<<<<<< Updated upstream
+=======
+    "NITROMETHANE",
+    "obabel",
+    "OCTANOL",
+>>>>>>> Stashed changes
+    "ohess",
+    "oxyz",
+    "polyfit",
+    "rdca",
+    "rdchem",
+    "rdkit",
+    "subcmd",
+    "termcolor",
+    "xlabel",
+    "xseq",
+    "xtba",
+    "xtbc",
+    "xtbp",
+    "ylabel"
+  ]
+}

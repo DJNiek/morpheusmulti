@@ -1,0 +1,7 @@
+argparse
+colored
+termcolor
+rdkit
+numpy
+pandas
+matplotlib
